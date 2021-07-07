@@ -57,7 +57,7 @@ hr {
 .divtop {
   background-color: #78DEC7;
   position: relative;
-  padding-top: 150px;
+  padding-top: 90px;
 }
 
 .divmid {
@@ -87,14 +87,19 @@ hr {
   top: 0;
 }
 
+.img1 {
+      padding-top: 100px;
+}
+
 .img2 {
-   display: none;
+  display: none;
 }
 
 .bottom-bird {
   position: absolute;
   left: 300px;
   bottom: 250px;
+  top: 200.812px;
 }
 
 .skill-row {
@@ -186,19 +191,19 @@ hr {
     font-size: 0.75rem;
   }
 
-  .img1{
-     display: none;
-   }
+  .img1 {
+    display: none;
+  }
 
-   .img2{
-     display: block;
-   }
+  .img2 {
+    display: block;
+  }
 
-   .img2 {
-     width: 100%;
-   }
-  
+  .img2 {
+    width: 100%;
+  }
+
   .copyright {
-     font-size: 0.625rem;
-   }
+    font-size: 0.625rem;
+  }
 }
