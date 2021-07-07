@@ -197,5 +197,8 @@ hr {
    .img2 {
      width: 100%;
    }
-
+  
+  .copyright {
+     font-size: 15px
+   }
 }
